@@ -1,0 +1,1 @@
+Evaluation measures model quality using scores, latency, and task-specific test cases. Reliable benchmarks should contain varied examples.

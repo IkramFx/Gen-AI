@@ -1,6 +1,6 @@
-.venv/
-__pycache__/
-*.py[cod]
-.env
-.env.*
-!.env.example
+Phase 1/.venv/
+Phase 1/__pycache__/
+Phase 1/**/*.pyc
+Phase 1/.env
+Phase 1/.env.*
+!Phase 1/.env.example

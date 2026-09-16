@@ -1,0 +1,1 @@
+Retrieval augmented generation combines search with language model generation. A retriever finds relevant context before the model writes an answer.
