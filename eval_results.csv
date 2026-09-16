@@ -1,0 +1,7 @@
+prompt,model,response,latency_ms,score
+What is a transformer?,claude-sonnet-4-5,[claude-sonnet-4-5] Answer to: What is a transformer?,339.7564191251294,0.0
+What is a transformer?,gpt-4o,[gpt-4o] Answer to: What is a transformer?,440.062680739494,0.0
+Define RAG,claude-sonnet-4-5,[claude-sonnet-4-5] Answer to: Define RAG,631.8212395907451,0.0
+Define RAG,gpt-4o,[gpt-4o] Answer to: Define RAG,304.63451591405186,0.0
+What is fine-tuning?,claude-sonnet-4-5,[claude-sonnet-4-5] Answer to: What is fine-tuning?,675.5743831653541,0.0
+What is fine-tuning?,gpt-4o,[gpt-4o] Answer to: What is fine-tuning?,656.4049258336944,0.0
